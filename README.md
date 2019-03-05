@@ -5,4 +5,7 @@ https://github.com/jgwynn36/Constructor-Word-Guess.git
 
 https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNCHILL201811FSF3/blob/master/11-js-constructors/homework/Instructions/HomeworkInstructions.md
 
+## Screen shots
 
+### Constructor game 
+![Screenshot](./ScreenShot_Constructor.png)
