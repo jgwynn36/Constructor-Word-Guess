@@ -8,4 +8,4 @@ https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNCHILL201811FSF3/blob/mast
 ## Screen shots
 
 ### Constructor game 
-![Screenshot](./ScreenShot_Constructor.png)
+![Screenshot](./Screen_Shot_Constructor.png)
